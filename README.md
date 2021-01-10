@@ -37,10 +37,10 @@ you've just cloned!!
 
 ### Usage
 ```bash
-> npm start
+> node index.js
 ```
 
-## FEATURES  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
+
 
 ## FIX ERORR
 
