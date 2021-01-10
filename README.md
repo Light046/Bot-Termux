@@ -42,7 +42,7 @@ you've just cloned!!
 
 ## FEATURES  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
 
-## Features
+## FIX ERORR
 
 | Sticker Creator |                Feature           |
 | :-----------: | :--------------------------------: |
@@ -69,6 +69,10 @@ you've just cloned!!
 |       ✅        |   Get List Admins Group          |
 |       ✅        |   welcome                        |
 |       ✅        |   simi                           |
+|       ✅        |   promote/demote                 |
+|       ✅        |   welcome                        |
+
+
 
 | Owner Bot  |                     Feature           |
 | :-----------: | :--------------------------------: |
