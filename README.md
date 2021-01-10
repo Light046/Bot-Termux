@@ -67,7 +67,8 @@ you've just cloned!!
 |       ✅        |   Kick Member Group	             |
 |       ✅        |   Add Member Group	             |
 |       ✅        |   Get List Admins Group          |
-
+|       ✅        |   welcome                        |
+|       ✅        |   simi                           |
 | Owner Bot  |                     Feature           |
 | :-----------: | :--------------------------------: |
 |       ✅        |   Set Prefix                     |
