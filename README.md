@@ -52,7 +52,7 @@ you've just cloned!!
 |       ✅       | Send Video or GIF with Caption   |
 |       ✅       | Reply A Sticker ( sticker to image ) |
 
-| Other  |                     Feature                     |
+| Other  |              Feature                     |
 | :------------: | :-------------------------------: |
 |       ✅        |   Get a random meme             |
 |       ✅        |   Text to speech                |
