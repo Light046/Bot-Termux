@@ -53,7 +53,7 @@ you've just cloned!!
 |       ✅       | Reply A Sticker ( sticker to image ) |
 
 | Other  |                     Feature                     |
-| :------------: | :---------------------------------------------: |
+| :------------: | :-------------------------------: |
 |       ✅        |   Get a random meme             |
 |       ✅        |   Text to speech                |
 |       ✅        |   Writing feature 				|
