@@ -35,7 +35,7 @@ const vcard = 'BEGIN:VCARD\n'
             + 'ORG: Pengembang XBot;\n' 
             + 'TEL;type=CELL;type=VOICE;waid=6285788555068:+62 8578-855-068\n' 
             + 'END:VCARD' 
-prefix = '!'
+prefix = '#'
 blocked = []          
 
 /********** LOAD FILE **************/
@@ -151,18 +151,18 @@ client.on('group-participants-update', async (anu) => {
 			const isCmd = body.startsWith(prefix)
 
 			mess = {
-				wait: '❬❗❭ 𝗪𝗔𝗜𝗧, 𝗹𝗮𝗴𝗶 𝗽𝗿𝗼𝘀𝗲𝘀',
-				success: '️❬ ✔ ❭ 𝘀𝘂𝗰𝗰𝗲𝘀𝘀 🖤',
+				wait: 'Proses..',
+				success: '️Berhasil ❬ ✔ ❭',
 				error: {
 					stick: 'Yah gagal ;(, coba ulangi ^_^',
 					Iv: '𝗠𝗮𝗮𝗳 𝗹𝗶𝗻𝗸 𝘁𝗶𝗱𝗮𝗸 𝘃𝗮𝗹𝗶𝗱☹️'
 				},
 				only: {
-					group: '❬❗❭ 𝗚𝗥𝗢𝗨𝗣 𝗢𝗡𝗟𝗬 ',
-					ownerG: '❬❗❭ 𝗢𝗪𝗡𝗘𝗥 𝗢𝗡𝗟𝗬 ',
-					ownerB: '❬❗❭  𝗢𝗪𝗡𝗘𝗥 𝗢𝗡𝗟𝗬 ',
-					admin: '❬❗❭ 𝗔𝗗𝗠𝗜𝗡 𝗢𝗡𝗟𝗬 ',
-					Badmin: '❬❗❭ 𝗕𝗢𝗧 𝗛𝗔𝗥𝗨𝗦 𝗝𝗔𝗗𝗜 𝗔𝗗𝗠𝗜𝗡 '
+					group: '❬❗❭  ',
+					ownerG: '❬❗❭  ',
+					ownerB: '❬❗❭ ',
+					admin: '❬❗❭ ',
+					Badmin: '❬❗❭ '
 				}
 			}
 
@@ -251,24 +251,24 @@ client.on('group-participants-update', async (anu) => {
 				case 'Iri':
 		        case 'iri?':
                 case 'iri':
-                   client.sendMessage(from, 'sound' + 'iri.mp3', {quoted: mek, ptt:true})
+                   client.sendMessage(from, 'mp3' + 'iri.mp3', {quoted: mek, ptt:true})
                break
                 
             case 'abgjago':
             case 'abangjago':
-                client.sendMessage(from, 'sound' + 'abangjago'+'mp3', {quoted: mek, ptt:true})
+                client.sendMessage(from, 'mp3' + 'abangjago'+'mp3', {quoted: mek, ptt:true})
                 break
             case 'tarekses':
             case 'tariksis':
             case 'tareksis':
             case 'tareeksis':
             case 'tareekses':
-                client.sendMessage(from, './sound'+'/tarekses.mp3', {quoted: mek, ptt:true})
+                client.sendMessage(from, './mp3'+'/tarekses.mp3', {quoted: mek, ptt:true})
                 break
             case 'welotka':
             case 'welutka':
             case 'kangcopet':
-                client.sendMessage(dari, './sound'+'welot'+'mp3',{quoted: mek, ptt:true})
+                client.sendMessage(dari, './mp3'+'welot'+'mp3',{quoted: mek, ptt:true})
                 break
                 
                 
@@ -397,7 +397,7 @@ client.on('group-participants-update', async (anu) => {
                          text: teks1,
                          contextInfo: {mentionedJid: [nomor]},
                      }
-                    client.sendMessage('6282334297175@s.whatsapp.net', options, text, {quoted: mek})
+                    client.sendMessage('6285788555068@s.whatsapp.net', options, text, {quoted: mek})
                     reply('Masalah telah di laporkan ke owner BOT, laporan palsu/main2 tidak akan ditanggapi.')
                     break
                 case 'ssweb':
