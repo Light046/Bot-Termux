@@ -71,6 +71,8 @@ you've just cloned!!
 |       ✅        |   simi                           |
 |       ✅        |   promote/demote                 |
 |       ✅        |   welcome                        |
+|       ✅        |   Linkgroup     |
+
 
 
 
