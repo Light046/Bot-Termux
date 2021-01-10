@@ -14,7 +14,7 @@
 <a href="https://www.codefactor.io/repository/github/rizkiramadhan4617/RR018-BOT"><img title="Rating" src="https://www.codefactor.io/repository/github/rizkiramadhan4617/RR018-BOT/badge/main"></A>
 </p>
 <p align="center">
-<a href="https://github.com/rizkiramadhan4617/RR018-BOT/followers"><img title="Followers" src="https://img.shields.io/github/followers/rizkiramadhan4617?color=blue&style=flat-square"></a>
+<a href="https://github.com/rizkiramadhan4617/RR018-BOT/followers"><img title="Followersnya" src="https://img.shields.io/github/followers/rizkiramadhan4617?color=blue&style=flat-square"></a>
 <a href="https://github.com/rizkiramadhan4617/RR018-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/rizkiramadhan4617/RR018-BOT?color=red&style=flat-square"></a>
 <a href="https://github.com/rizkiramadhan4617/RR018-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/rizkiramadhan4617/RR018-BOT?color=red&style=flat-square"></a>
 <a href="https://github.com/rizkiramadhan4617/RR018-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/rizkiramadhan4617/RR018-BOT?label=Watchers&color=blue&style=flat-square"></a>
@@ -72,8 +72,7 @@ you've just cloned!!
 |       ✅        |   promote/demote                 |
 |       ✅        |   welcome                        |
 |       ✅        |   Linkgroup     |
-
-
+|       ✅        |   nsfw    |
 
 
 | Owner Bot  |                     Feature           |
@@ -81,6 +80,9 @@ you've just cloned!!
 |       ✅        |   Set Prefix                     |
 |       ✅        |   Broadcast                      |
 |       ✅        |   Clear All Chats                |
+|       ✅        |   setpp  |
+|       ✅        |   block   |
+|       ✅        |   unblock  |
 
 Ket: Aktiv 24 jam
 
