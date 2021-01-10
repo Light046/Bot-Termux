@@ -69,6 +69,7 @@ you've just cloned!!
 |       ✅        |   Get List Admins Group          |
 |       ✅        |   welcome                        |
 |       ✅        |   simi                           |
+
 | Owner Bot  |                     Feature           |
 | :-----------: | :--------------------------------: |
 |       ✅        |   Set Prefix                     |
